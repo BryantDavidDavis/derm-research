@@ -1,0 +1,407 @@
+
+<div class="row">
+    <div class="large-12 columns">
+        <h3>Our Partners</h3>
+    </div>
+    <div class="row">
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>3M Pharmaceuticals</h5>
+                <p>What we did with 3M</p>
+            </div>
+        </div>
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Abbott Labs</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3  columns">
+            <div class="panel">
+                <h5>Alpharma USPD, Inc.</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Altana, Inc.</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-2 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/200x200"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <h5>Amgen</h5>
+                <p>This is a four columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Atrix Laboratories, Inc</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Aventis</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Bectin-Dickinson</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Berlex Laboratories, Inc</h5>
+                <p>What we did with 3M</p>
+            </div>
+        </div>
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Biomedical Development Corporation</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3  columns">
+            <div class="panel">
+                <h5>Bristol-Meyers Squibb Pharmaceuticals</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Clay-Park Labs, Inc</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-2 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/200x200"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <h5>Connetics Corporation</h5>
+                <p>This is a four columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Dusa Pharmaceuticals</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Dermik Laboratories</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>ESC Medical Systems</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Fujisawa Healthcare, Inc</h5>
+                <p>What we did with 3M</p>
+            </div>
+        </div>
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Galderma</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3  columns">
+            <div class="panel">
+                <h5>Graceway Pharmaceuticals</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Hill Dermaceuticals, Inc.</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-2 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/200x200"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <h5>Leo Pharma</h5>
+                <p>This is a four columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Matrix Pharmaceuticals</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Medicus</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Novartis</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Novartis Consumers Health</h5>
+                <p>What we did with 3M</p>
+            </div>
+        </div>
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Penaderm, Inc</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3  columns">
+            <div class="panel">
+                <h5>Perrigo Pharmaceuticals</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Pfizer</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-2 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/200x200"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <h5>QLT USA, Inc.</h5>
+                <p>This is a four columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+        <div class="large-4 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/400x300"/>
+                </p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Sani-Fresh International</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Sanofi Aventis</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Scott Paper Company</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="large-3 columns">
+            <div class="panel">
+                <h5>Serono Laboratories</h5>
+                <p>What we did with 3M</p>
+            </div>
+        </div>
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Stiefel Pharmaceuticals</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-3  columns">
+            <div class="panel">
+                <h5>TAP Holdings, Inc.</h5>
+                <p>This is a three columns grid panel with an arbitrary height.</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+
+        <div class="large-6 columns">
+            <div class="panel">
+                <h5>Teva Pharmaceuticals, Inc.</h5>
+                <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
+            </div>
+        </div>
+        <div class="large-2 columns">
+            <div class="panel">
+                <p>
+                    <img src="http://placehold.it/200x200"/>
+                </p>
+            </div>
+        </div>
+    </div>
+

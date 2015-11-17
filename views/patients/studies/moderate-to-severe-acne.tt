@@ -1,0 +1,113 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Derm Research</title>
+    <link rel="stylesheet" href="../../css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+      <div class="row">
+        <div class="large-12 columns">
+          <div class="row">
+            <div class="large-12 columns">
+     
+              <nav class="top-bar" data-topbar>
+                <ul class="title-area">
+                   
+                  <li class="name">
+                    <h1>
+                      <a href="index.html">
+                        Derm Research
+                      </a>
+                    </h1>
+                  </li>
+                  <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+                </ul>
+             
+                <section class="top-bar-section">
+                   
+                  <ul class="right">
+                    <li class="divider"></li>
+                    <li class="has-dropdown">
+                      <a href="#">Partners</a>
+                      <ul class="dropdown">
+                        <li><label>Our Experience</label></li>
+                        <li><a href="experience/companies.html">Companies With Whom We Work</a></li>
+                        <li><a href="experience/products.html">Therapeutic Areas and Products</a></li>
+                        <li><a href="experience/studies.html">List of Previous Studies</a></li>
+                        <li class="divider"></li>
+                        <li><label>Capabilities</label></li>
+                        <li><a href="capabilities/facilities.html">Our Facilities</a></li>
+                        <li><a href="capabilities/demographics.html">Patient Demographics</a></li>
+                        <li><a href="capabilities/staff.html">Our Staff</a></li>
+                      </ul>
+                    </li>
+                    <li class="has-dropdown">
+                      <a href="#">Patients</a>
+                      <ul class="dropdown">
+                        <li class="has-dropdown">
+                          <a href="patients/participate" class="">Participate in a Study</a>
+                          <ul class="dropdown">
+                            <li><a href="#">Atopic Dermatitis</a></li>
+                            <li><a href="#">Rosacea</a></li>
+                            <li><a href="#">Abdominal Belly Fat</a></li>
+                            <li><a href="patients/studies/actinic-keratosis.html">Actinic Keratosis</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="divider"></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li class="divider"></li>
+                  </ul>
+                </section>
+              </nav>
+               
+            </div>
+          </div>
+               <div class="row">
+        <div class="large-12 columns">
+          <img src="http://placehold.it/1600x600&text=Picture of Actinic Keratosis"><br><br>
+        </div>
+      </div>
+     
+       
+     
+     
+      <div class="row">
+     
+        <div class="large-3 panel columns">
+          <img src="http://placehold.it/500x500&text=Image">
+     
+          <h4>Picture of Actinic Keratosis</h4>
+     
+          <p>Actinic Keratosis is a condition that affects the skin</p>
+        </div>
+     
+        <div class="large-9 columns">
+          <div class="panel">
+            <div class="row">
+              If you meet these conditions you may qualify for a study
+            </div>
+          </div>
+     
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="panel">
+                <h5>Participate</h5>
+                <p>If you answered yes to these questions, then please contact us!</p>
+                <a href="../../contact.html" class="small button">Contact</a>
+              </div>
+            </div>
+          </div>
+        </div>
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
+    

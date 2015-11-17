@@ -1,0 +1,39 @@
+
+               <div class="row">
+        <div class="large-12 columns">
+          <img src="http://placehold.it/1600x600&text=Picture of Actinic Keratosis"><br><br>
+        </div>
+      </div>
+     
+       
+     
+     
+      <div class="row">
+     
+        <div class="large-3 panel columns">
+          <img src="http://placehold.it/500x500&text=Image">
+     
+          <h4>Picture of Actinic Keratosis</h4>
+     
+          <p>Actinic Keratosis is a condition that affects the skin</p>
+        </div>
+     
+        <div class="large-9 columns">
+          <div class="panel">
+            <div class="row">
+              If you meet these conditions you may qualify for a study
+            </div>
+          </div>
+     
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="panel">
+                <h5>Participate</h5>
+                <p>If you answered yes to these questions, then please contact us!</p>
+                <a href="/contact" class="small button">Contact</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    
