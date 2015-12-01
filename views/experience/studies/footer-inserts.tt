@@ -1,0 +1,11 @@
+$(function() {
+	var source = $("#studies-accordion-template").html();
+	var template = Handlebars.compile(source);
+	var html;
+
+	$.getJSON("/derm-research-studies-list.json", function(json) {
+    	console.log(json.items);
+    	$(".accordion").append(template(json.items));
+    	$(document).foundation();
+	});
+});

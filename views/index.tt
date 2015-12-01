@@ -1,64 +1,47 @@
-<section>
 <div class="single-item text-center">
   <div><img data-caption="caption here..." src="http://placehold.it/800x500&text=[img1]"></div>
   <div><img data-caption="caption here..." src="http://placehold.it/800x500&text=[img2]"></div>
   <div><img data-caption="caption here..." src="http://placehold.it/800x500&text=[img3]"></div>
 </div>
-<div class="row">
-<hr>
-<div class="large-8 columns">
-<h4>About</h4>
-<p>The Dermatology and Clinical Research Center of San Antonio is an independent clinical research sit specializing in dermatology clinical trials.  The Center was founded by Steven A. Davis, MD in 1987.  It has its own full-time staff and dedicated exam rooms and offices immediately adjacent to Dr. Davis' clinical practice, the Dermatology & Laser Center of San Antonio.  The practice provides a full range of dermatology, medical, surgical, and cosmetic services and records over 15,000 patient encounters a year.</p>
-<p>Since our Research Center is dedicated exclusively to dermatology, our staff has vast experience in dermatology-related conditions, plus a large database of both diagnosis-coded clinical patient lists and previous clinical study patients, giving us the ability to deliver accurate data in a timely fashion.  Compliance and completion rates for our studies are high.  Enrollment and completion rates typically meet or exceed sponsor requirements and we are often asked to enroll more that our original quota to help the sponsor reach its national goals.</p>
-<p>Our two, full-time coordinators have over 30 years of research experience between them and a solid reputation among our sponsors for presenting accurate data and immediate turn-around times for regulatory document submissions and other clinical trial documents.</p>
-<p>Our site has worked closely with several central IRB's including Quorum Review, Western Institutional Review Board, Coast Independent Review Board, Independent Review Board, Schulman Associates IRB, and IntegReview Ethical Review Board.  We have also worked with numerous CRO's as well.</p>
-<i class="fi-social-twitter"></i>
-</div>
-<div class="large-4 columns">
-<img src="http://placehold.it/400x300&text=[img]">
-</div>
-</div>
-<div class="row">
+<section class="about-index-page">
+<div class="row full-width">
   <hr>
   <div class="large-12 columns">
-    <h4 class="centered-text">A few of our Sponsors</h4>
-    <div class="row">
-      <div class="large-12 columns">
-        <ul class="block-grid inline-list">
-          <li><img src="/images/3m-logo.png"></li>
-          <li class="hide-for-small"><img src="/images/BMS_logo.jpg"></li>
-          <li class="hide-for-medium hide-for-small"><img src="/images/bd-logo.png"></li>
-          <li class="hide-for-medium hide-for-small"><img src="/images/pfizer-logo.png"></li>
-          <li></li>
-        </ul>
-      </div>
-    </div>
-    <div>
-      <div class="large-12 columns see-more">
-        <a href="experience/companies">more of our many sponsors...</a>
-      </div>
-    </div>
+    <h4>About</h4>
+    <p>The Dermatology and Clinical Research Center of San Antonio is an independent clinical research sit specializing in dermatology clinical trials.  The Center was founded by Steven A. Davis, MD in 1987.  It has its own full-time staff and dedicated exam rooms and offices immediately adjacent to Dr. Davis' clinical practice, the Dermatology & Laser Center of San Antonio.  The practice provides a full range of dermatology, medical, surgical, and cosmetic services and records over 15,000 patient encounters a year.</p>
+    <p>Since our Research Center is dedicated exclusively to dermatology, our staff has vast experience in dermatology-related conditions, plus a large database of both diagnosis-coded clinical patient lists and previous clinical study patients, giving us the ability to deliver accurate data in a timely fashion.  Compliance and completion rates for our studies are high.  Enrollment and completion rates typically meet or exceed sponsor requirements and we are often asked to enroll more that our original quota to help the sponsor reach its national goals.</p>
+    <p>Our two, full-time coordinators have over 30 years of research experience between them and a solid reputation among our sponsors for presenting accurate data and immediate turn-around times for regulatory document submissions and other clinical trial documents.</p>
+    <p>Our site has worked closely with several central IRB's including Quorum Review, Western Institutional Review Board, Coast Independent Review Board, Independent Review Board, Schulman Associates IRB, and IntegReview Ethical Review Board.  We have also worked with numerous CRO's as well.</p>
   </div>
 </div>
+<hr/>
+<h4 class="text-center">A Few of the Sponsors We Work With</h4>
+<div class="row sponsor-logos">
+  <div class="small-4 medium-2 text-center columns"><img src="/images/3M_wordmark.svg"></div>
+  <div class="small-4 medium-2 text-center columns"><img src="/images/Bristol-Myers_Squibb_logo.svg"></div>
+  <div class="small-4 medium-2 text-center columns"><img src="/images/Becton_Dickinson-ColorLogo.svg"></div>
+  <div class="small-4 medium-2 text-center columns"><img src="/images/pfizer.svg"></div>
+  <div class="small-4 medium-2 text-center columns"><img src="/images/novartis-logo.svg"></div>
+  <div class="small-4 medium-2 text-center columns"><img src="/images/Galderma_Logo.svg"></div>
+</div>
 <div class="row">
-  <hr>
-  <div class="large-12 columns">
-    <h4>Our Staff</h4>
-    <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-clearing>
-      <li>
-        <a href="http://placehold.it/800x500&text=[img]">
-        <img data-caption="caption here..." src="http://placehold.it/800x500&text=[img]"></a>
-      </li>
-      <li>
-        <a href="http://placehold.it/800x500&text=[img]"><img data-caption="caption 2 here..." src="http://placehold.it/800x500&text=[img]"></a>
-      </li>
-      <li>
-        <a href="http://placehold.it/800x500&text=[img]"><img data-caption="caption 3 here..." src="http://placehold.it/800x500&text=[img]"></a>
-      </li>
-      <li>
-        <a href="http://placehold.it/800x500&text=[img]"><img data-caption="caption 4 here..." src="http://placehold.it/800x500&text=[img]"></a>
-      </li>
-    </ul>
+  <div class="small-10 medium-8 small-centered columns">
+    <h6 class="text-center">At the Derm Research Center of San Antonio we have experience working with over 40 different sponsors. <a href="experience/companies">See a complete list here...</a></h6>
   </div>
 </div>
 </section>
+<hr/>
+<div class="row small-up-1 medium-up-2 large-up-4">
+  <div class="column">
+    <img src="//placehold.it/300x300" class="thumbnail" alt="">
+  </div>
+  <div class="column">
+    <img src="//placehold.it/300x300" class="thumbnail" alt="">
+  </div>
+  <div class="column">
+    <img src="//placehold.it/300x300" class="thumbnail" alt="">
+  </div>
+  <div class="column">
+    <img src="//placehold.it/300x300" class="thumbnail" alt="">
+  </div>
+</div>

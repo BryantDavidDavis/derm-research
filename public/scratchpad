@@ -1,0 +1,58 @@
+<!-- 				<ul class="dropdown menu" data-dropdown-menu>
+					<li class="has-submenu">
+						<a href="#">Sponsors</a>
+						<ul class="submenu menu vertical" data-drilldown>
+							<li>
+								<a href="/">Experience</a>
+								<ul class="menu">
+									<li>
+										<a href="#">Companies With Whom We Work</a>
+										</li>
+									<li>
+										<a href="#">List of Previous Studies</a>
+									</li>
+								</ul>
+							</li>
+							<li><a href="#">one</a></li>
+							<li><a href="#">one</a></li>
+						</ul>
+					</li>
+				</ul> -->
+
+				<!-- 		<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+		  <button class="menu-icon" type="button" data-toggle></button>
+		  <div class="title-bar-title">Menu</div>
+		</div>
+		<div class="top-bar" id="example-menu">
+			<div class="top-bar-left">
+				<ul class="menu">
+					<li class="menu-text">Derm Research</li>
+				</ul>
+			</div>
+			<div class="top-bar-right">
+				<ul class="dropdown menu" data-dropdown-menu>
+				  <li>
+				    <a>Sponsors</a>
+				    <ul class="menu">
+					    <li><a href="/experience/companies">Companies With Whom We Work</a></li>
+				        <li><a href="/experience/products">Therapeutic Areas and Products</a></li>
+				        <li><a href="/experience/studies">List of Previous Studies</a></li>
+				        <li><a href="capabilities/facilities">Our Facilities</a></li>
+				        <li><a href="capabilities/demographics">Patient Demographics</a></li>
+				        <li><a href="capabilities/staff">Our Staff</a></li>				       
+				    </ul>
+				  </li>
+				  <li>
+				    <a>Patients</a>
+				    <ul class="menu">
+			            <li><a href="/patients/studies/atopic-dermatitis">Atopic Dermatitis</a></li>
+			            <li><a href="/patients/studies/moderate-to-severe-acne">Moderate to Severe Acne</a></li>
+			            <li><a href="/patients/studies/severe-papulopustular-rosacea">Rosacea</a></li>
+			            <li><a href="/patients/studies/actinic-keratosis">Actinic Keratosis</a></li>
+			            <li><a href="/patients/studies/plaque-psoriasis">Plaque Psoriasis</a></li>
+				    </ul>
+				  </li>
+				  <li><a href="#">Contact</a></li>
+				</ul>
+			</div>
+		</div> -->

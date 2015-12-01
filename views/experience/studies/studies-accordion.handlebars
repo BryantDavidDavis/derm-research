@@ -1,0 +1,11 @@
+<script id="studies-accordion-template" type="text/x-handlebars-template">
+  
+  {{#each this}}
+    <li class="accordion-item">
+	    <a href="#panel{{@index}}" role="tab" class="accordion-title" id="panel{{@index}}-heading" aria-controls="panel{{@index}}">{{Condition}}</a>
+	    <div id="panel{{@index}}" class="accordion-content" role="tabpanel" data-tab-content aria-labelledby="panel{{@index}}-heading">
+	      Some information about the studies 
+	    </div>
+  	</li>
+  {{/each}}
+</script>

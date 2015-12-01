@@ -1,0 +1,27 @@
+{
+	"intro": "Given San Antonio's long history as a busy, clinical research environment, its residents are unusually receptive to participation in research studies.  Such familiarity with the clinical trial concept facilitates our recruiting study subjects by direct referrals from the Dermatology & Laser Center of San Antonio™ and community dermatologists, aggressive multi-media advertising, and successful word-of-mouth patient recruitment strategies.  The Dermatology & Laser Center's 18,000+ annual patient encounters are diagnosis-coded and our large database of patients from previous studies provides excellent candidates for future trials.\nAs one of America's fasting-growing cities--and one of those least affected by the current economic downturn--San Antonio's 1.2 million people feature ethnic diversity, presence of a large retirement population, and a rapid rate of family growth.  In addition to many study volunteers with common dermatological disorders, such as acne and psoriasis, we have a large urban/rural sunbelt mix of patients with actinic keratoses, cutaneous malignancies, fungal infections, and atopic dermatitis.  Our study volunteers come from all walks of life and use both public and private transportation to come for study visits.",
+	"demographics": {
+		"race": {
+			"Hispanic": 54.3,
+			"White Non-Hispanic": 35.6,
+			"Black": 7.2,
+			"Two or more races": 3.6,
+			"American Indian": 1.3,
+			"Other Race": 17.8,
+			"explanation": "Total can be greater than 100% because Hispanics could be counted in other races"
+		},
+		"gender": {
+			"males": {
+				"total": 677541,
+				"percent": 48.6
+			},
+			"females": {
+				"total": 715390,
+				"percent": 51.4
+			}
+		},
+		"age": {
+			"median_resident_age": 32.1
+		}
+	}
+}

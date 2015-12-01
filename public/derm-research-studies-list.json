@@ -1,0 +1,622 @@
+{
+  "items": [
+    {
+      "Year  Started": "2009",
+      "Phase/Status": "III -- in progress",
+      "Condition": "Severe Hand Dermatitis",
+      "Type of Agent": "Oral"
+    },
+    {
+      "Year  Started": "2008",
+      "Phase/Status": "II",
+      "Condition": "Acne",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Condition": "Basal Cell Carcinoma",
+      "Type of Agent": "Topical",
+      "Year  Started": "2008",
+      "Phase/Status": "I/II"
+    },
+    {
+      "Type of Agent": "Oral",
+      "Condition": "Atopic Dermatitis",
+      "Phase/Status": "II",
+      "Year  Started": "2008"
+    },
+    {
+      "Type of Agent": "Injectable",
+      "Condition": "Small Pox Vaccination in Atopic Derm",
+      "Phase/Status": "II",
+      "Year  Started": "2008"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Injectable (Biologic)",
+      "Year  Started": "2008",
+      "Phase/Status": "III--in progress"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2008",
+      "Type of Agent": "Injectable (Biologic)",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Phase/Status": "III--in progress",
+      "Year  Started": "2008",
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2008",
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis",
+      "Phase/Status": "III",
+      "Year  Started": "2008"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2008",
+      "Type of Agent": "Injectable (Biologic)",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Year  Started": "2007",
+      "Phase/Status": "II",
+      "Condition": "Actinic Keratosis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Condition": "Malignant Melanoma",
+      "Type of Agent": "Device",
+      "Year  Started": "2007",
+      "Phase/Status": "I"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Injectable (Biologic)",
+      "Year  Started": "2007",
+      "Phase/Status": "IV -- in progress"
+    },
+    {
+      "Phase/Status": "II",
+      "Year  Started": "2007",
+      "Type of Agent": "Topical/PDT",
+      "Condition": "Acne"
+    },
+    {
+      "Phase/Status": "II",
+      "Year  Started": "2006",
+      "Type of Agent": "Topical/PDT",
+      "Condition": "Actinic Keratosis"
+    },
+    {
+      "Condition": "Actinic Keratosis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2006",
+      "Phase/Status": "II"
+    },
+    {
+      "Year  Started": "2006",
+      "Phase/Status": "III ",
+      "Condition": "Psoriasis (Scalp & Body)",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Versicolor",
+      "Phase/Status": "III",
+      "Year  Started": "2005"
+    },
+    {
+      "Condition": "Actinic Keratosis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2005",
+      "Phase/Status": "III"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2005",
+      "Phase/Status": "III"
+    },
+    {
+      "Year  Started": "2005",
+      "Phase/Status": "III",
+      "Condition": "Tinea Pedis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Phase/Status": "IV",
+      "Year  Started": "2005",
+      "Type of Agent": "Injectable (Biologic)",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2005",
+      "Phase/Status": "III"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2005",
+      "Phase/Status": "III"
+    },
+    {
+      "Phase/Status": "III ",
+      "Year  Started": "2005",
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2005",
+      "Phase/Status": "III "
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis",
+      "Phase/Status": "III ",
+      "Year  Started": "2005"
+    },
+    {
+      "Condition": "Tinea Pedis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2005",
+      "Phase/Status": "III "
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Rosacea",
+      "Phase/Status": "III",
+      "Year  Started": "2005"
+    },
+    {
+      "Condition": "Atopic Dermatitis (Pediatric)",
+      "Type of Agent": "Topical",
+      "Year  Started": "2004",
+      "Phase/Status": "II "
+    },
+    {
+      "Condition": "Actinic Keratosis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2004",
+      "Phase/Status": "I"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Oral",
+      "Year  Started": "2004",
+      "Phase/Status": "III "
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Rosacea",
+      "Phase/Status": "III ",
+      "Year  Started": "2004"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis",
+      "Phase/Status": "IV",
+      "Year  Started": "2003"
+    },
+    {
+      "Phase/Status": "IV",
+      "Year  Started": "2003",
+      "Type of Agent": "Topical",
+      "Condition": "Atopic Dermatitis"
+    },
+    {
+      "Year  Started": "2003",
+      "Phase/Status": "III",
+      "Condition": "Seborrheic Dermatitis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Condition": "Atopic Dermatitis",
+      "Type of Agent": "Topical",
+      "Year  Started": "2003",
+      "Phase/Status": "III"
+    },
+    {
+      "Year  Started": "2003",
+      "Phase/Status": "III",
+      "Condition": "Onychomycisis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Pedis",
+      "Phase/Status": "III",
+      "Year  Started": "2003"
+    },
+    {
+      "Year  Started": "2003",
+      "Phase/Status": "III ",
+      "Condition": "Chronic Idiopathic Urticaria",
+      "Type of Agent": "Oral"
+    },
+    {
+      "Year  Started": "2003",
+      "Phase/Status": "III ",
+      "Condition": "Acne",
+      "Type of Agent": "Oral"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Rosacea",
+      "Phase/Status": "III",
+      "Year  Started": "2003"
+    },
+    {
+      "Phase/Status": "III ",
+      "Year  Started": "2003",
+      "Type of Agent": "Oral",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2002",
+      "Type of Agent": "Topical",
+      "Condition": "Acne"
+    },
+    {
+      "Condition": "Onychomycosis",
+      "Type of Agent": "Oral",
+      "Year  Started": "2002",
+      "Phase/Status": "III"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2002",
+      "Type of Agent": "Injection",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2002",
+      "Type of Agent": "Oral",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Year  Started": "2002",
+      "Phase/Status": "III ",
+      "Condition": "Hyperhidrosis",
+      "Type of Agent": "Injectable"
+    },
+    {
+      "Phase/Status": "III ",
+      "Year  Started": "2002",
+      "Type of Agent": "Topical",
+      "Condition": "Acne"
+    },
+    {
+      "Condition": "Atopic Dermatitis (pediatric)",
+      "Type of Agent": "Topical",
+      "Year  Started": "2002",
+      "Phase/Status": "III"
+    },
+    {
+      "Phase/Status": "III ",
+      "Year  Started": "2002",
+      "Type of Agent": "Topical",
+      "Condition": "Atopic Dermatitis"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Psoriasis",
+      "Phase/Status": "III",
+      "Year  Started": "2001"
+    },
+    {
+      "Type of Agent": "Oral",
+      "Condition": "Psoriasis",
+      "Phase/Status": "III ",
+      "Year  Started": "2001"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2001",
+      "Type of Agent": "Topical",
+      "Condition": "Acne"
+    },
+    {
+      "Year  Started": "2001",
+      "Phase/Status": "III",
+      "Condition": "Actinic Keratosis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Phase/Status": "IV ",
+      "Year  Started": "2001",
+      "Type of Agent": "Topical",
+      "Condition": "Atopic Dermatitis"
+    },
+    {
+      "Year  Started": "2001",
+      "Phase/Status": "II",
+      "Condition": "Psoriasis",
+      "Type of Agent": "Injectable"
+    },
+    {
+      "Year  Started": "2001",
+      "Phase/Status": "IV",
+      "Condition": "Actinic Keratosis",
+      "Type of Agent": "None"
+    },
+    {
+      "Condition": "Tinea Versicolor",
+      "Type of Agent": "Topical",
+      "Year  Started": "2001",
+      "Phase/Status": "III"
+    },
+    {
+      "Condition": " ",
+      "Type of Agent": " ",
+      "Year  Started": " ",
+      "Phase/Status": " "
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2001",
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Curis"
+    },
+    {
+      "Condition": "Hyperhidrosis",
+      "Type of Agent": "Injectable",
+      "Year  Started": "2001",
+      "Phase/Status": "III"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2001",
+      "Type of Agent": "Topical",
+      "Condition": "Acne"
+    },
+    {
+      "Year  Started": "2001",
+      "Phase/Status": "III",
+      "Condition": "Acne",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Pedis",
+      "Phase/Status": "III",
+      "Year  Started": "2001"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Rosacea",
+      "Phase/Status": "III",
+      "Year  Started": "2001"
+    },
+    {
+      "Year  Started": "2001",
+      "Phase/Status": "III",
+      "Condition": "Topical Anesthesia",
+      "Type of Agent": "Device"
+    },
+    {
+      "Condition": "Basal Cell Carcinoma",
+      "Type of Agent": "Topical",
+      "Year  Started": "2001",
+      "Phase/Status": "III"
+    },
+    {
+      "Phase/Status": "IV",
+      "Year  Started": "2001",
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis"
+    },
+    {
+      "Year  Started": "2001",
+      "Phase/Status": "I/II",
+      "Condition": "Acne",
+      "Type of Agent": "Topical/PDT"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "2000",
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Pedis"
+    },
+    {
+      "Phase/Status": "II",
+      "Year  Started": "2000",
+      "Type of Agent": "Topical",
+      "Condition": "Superficial Mycoses"
+    },
+    {
+      "Year  Started": "1999",
+      "Phase/Status": "III",
+      "Condition": "Atopic Dermatitis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Year  Started": "1999",
+      "Phase/Status": "III",
+      "Condition": "Acne",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "1999",
+      "Type of Agent": "Topical",
+      "Condition": "Acne"
+    },
+    {
+      "Condition": "Psoriasis",
+      "Type of Agent": "Topical",
+      "Year  Started": "1999",
+      "Phase/Status": "I"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Pedis (Prevention)",
+      "Phase/Status": "III",
+      "Year  Started": "1999"
+    },
+    {
+      "Year  Started": "1999",
+      "Phase/Status": "III",
+      "Condition": "Acne",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Type of Agent": "Oral",
+      "Condition": "Uncomplicated Skin Infections",
+      "Phase/Status": "III",
+      "Year  Started": "1999"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Psoriasis",
+      "Phase/Status": "III",
+      "Year  Started": "1998"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Acne",
+      "Phase/Status": "III",
+      "Year  Started": "1998"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Actinic Keratosis",
+      "Phase/Status": "III",
+      "Year  Started": "1998"
+    },
+    {
+      "Year  Started": "1998",
+      "Phase/Status": "IV",
+      "Condition": "Acne",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Year  Started": "1998",
+      "Phase/Status": "III",
+      "Condition": "Tinea Pedis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Year  Started": "1997",
+      "Phase/Status": "III",
+      "Condition": "Hair Removal",
+      "Type of Agent": "Device--PhotoDerm"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Herpes Labialis",
+      "Phase/Status": "II",
+      "Year  Started": "1996"
+    },
+    {
+      "Year  Started": "1996",
+      "Phase/Status": "IV",
+      "Condition": "Tinea Pedis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "1995",
+      "Type of Agent": "Intralesional Injection",
+      "Condition": "Basal Cell Carcinoma"
+    },
+    {
+      "Condition": "Atopic Dermatitis",
+      "Type of Agent": "Topical",
+      "Year  Started": "1995",
+      "Phase/Status": "III"
+    },
+    {
+      "Phase/Status": "III",
+      "Year  Started": "1995",
+      "Type of Agent": "Topical",
+      "Condition": "Psoriasis"
+    },
+    {
+      "Type of Agent": "Topical",
+      "Condition": "Tinea Curis",
+      "Phase/Status": "IV",
+      "Year  Started": "1994"
+    },
+    {
+      "Type of Agent": "Intralesional Injection",
+      "Condition": "Condylomata",
+      "Phase/Status": "III",
+      "Year  Started": "1993"
+    },
+    {
+      "Year  Started": "1993",
+      "Phase/Status": "III",
+      "Condition": "Tinea Curis/Corporis",
+      "Type of Agent": "Topical"
+    },
+    {
+      "Condition": "Bacterial Infections (pediatrics)",
+      "Type of Agent": "Oral",
+      "Year  Started": "1992",
+      "Phase/Status": "III"
+    },
+    {
+      "Type of Agent": "Trans-dermal",
+      "Condition": "Drug Delivery",
+      "Phase/Status": "III",
+      "Year  Started": "1992"
+    },
+    {
+      "Condition": "Bacterial Infections (adults)",
+      "Type of Agent": "Oral",
+      "Year  Started": "1991",
+      "Phase/Status": "III"
+    },
+    {
+      "Type of Agent": "Oral",
+      "Condition": "Urticaria",
+      "Phase/Status": "III",
+      "Year  Started": "1990"
+    },
+    {
+      "Phase/Status": " ",
+      "Year  Started": "1989",
+      "Type of Agent": "Perineal",
+      "Condition": "Personal Care Product"
+    },
+    {
+      "Type of Agent": "Hands",
+      "Condition": "Personal Care Product",
+      "Phase/Status": " ",
+      "Year  Started": "1988"
+    },
+    {
+      "Condition": "Personal Care Product",
+      "Type of Agent": "Infants",
+      "Year  Started": "1988",
+      "Phase/Status": " "
+    },
+    {
+      "Year  Started": "1988",
+      "Phase/Status": " ",
+      "Condition": "Personal Care Product",
+      "Type of Agent": "Hands"
+    },
+    {
+      "Type of Agent": "Hands",
+      "Condition": "Personal Care Product",
+      "Phase/Status": " ",
+      "Year  Started": "1987"
+    }
+  ]
+}

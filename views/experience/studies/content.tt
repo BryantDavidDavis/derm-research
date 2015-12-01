@@ -1,0 +1,481 @@
+<div class="row">
+    <div class="large-12 columns">
+        <div class="panel">
+            <h4>Clinical Research Study Experience</h4>
+            <hr/>
+            <p>
+                Dr. Davis and his staff have more than 20 years of experience conducting Phase I-IV trials.  We have participated in product/device trials in the following therapeutic areas:
+            </p>
+            <hr/>
+            <ul class="inline-list">
+                <li>Acne Vulgaris (Adolescent and Adult): Personal Care Products</li>
+                <li>Actinic Keratosis: Personal Care Products (Infants)</li>
+                <li>Atopic Dermatitis (Adult and Pediatric): Psoriasis (Including Biologics)</li>
+                <li>Bacterial Skin Infections (Adult and Pediatric): Psoriasis (Scalp)</li>
+                <li>Basal Cell Carcinoma: Rosacea</li>
+                <li>Condyloma Acuminata: Seborrheic Dermatitis</li>
+                <li>Drug Delivery Systems: Superficial Mycoses</li>
+                <li>Hair Removal: Tinea Curis/Corporis</li>
+                <li>Herpes Labialis: Tinea Pedis (Therapeutic & Preventative)</li>
+                <li>Hyperhidrosis: Tropical Anasthesia</li>
+                <li>Malignant Melanoma: Urticaria (Chronic Idiopathic)</li>
+                <li>Onychomycosis</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+        <h4>A Timeline of Our Studies</h4>
+        <hr/>
+        <ul class="accordion" data-accordion>
+          <li class="accordion-navigation">
+            <a href="#panel1a">Acne Vulgaris (Adolescent and Adult): Personal Care Products</a>
+            <div id="panel1a" class="content active">
+              Panel 1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+          </li>
+          <li class="accordion-navigation">
+            <a href="#panel2a">Actinic Keratosis: Personal Care Products (Infants)</a>
+            <div id="panel2a" class="content">
+              Panel 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+          </li>
+          <li class="accordion-navigation">
+            <a href="#panel3a">Atopic Dermatitis (Adult and Pediatric): Psoriasis (Including Biologics)/a>
+            <div id="panel3a" class="content">
+              Panel 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+                      <li class="accordion-navigation">
+            <a href="#panel1a">Bacterial Skin Infections (Adult and Pediatric): Psoriasis (Scalp)</a>
+            <div id="panel1a" class="content active">
+              Panel 1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+          </li>
+          <li class="accordion-navigation">
+            <a href="#panel2a">Condyloma Acuminata: Seborrheic Dermatitis</a>
+            <div id="panel2a" class="content">
+              Panel 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+          </li>
+          <li class="accordion-navigation">
+            <a href="#panel3a">Basal Cell Carcinoma: Rosacea</a>
+            <div id="panel3a" class="content">
+              Panel 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+          </li>
+        </ul>
+    </div>
+</div>
+<section id="cd-timeline" class="cd-container">
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Personal Care Product</h4>
+            <p>Type of Agent: Hands</p>
+            <span class="cd-date">1987-1988</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Personal Care Product</h4>
+            <p>Type of Agent: Perineal</p>
+            <span class="cd-date">1989</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Urticaria</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III</p>
+            <span class="cd-date">1990</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Bacterial Infections (adults)</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III</p>
+            <span class="cd-date">1991</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Drug Delivery</h4>
+            <p>Type of Agent: Transdermal</p>
+            <p>Phase/Status: III</p>
+            <span class="cd-date">1992</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Bacterial Infections</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III</p>
+            <span class="cd-date">1992</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Tinea Curis/Corporis</h4>
+            <p>Type of Agent: Topical</p>
+            <p>Phase/Status: III</p>
+            <span class="cd-date">1993</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h4>Severe Hand Dermatitis</h4>
+            <p>Type of Agent: Oral</p>
+            <p>Phase/Status: III -- in progress</p>
+            <span class="cd-date">2009</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->    <div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+        <img src="img/cd-icon-picture.svg" alt="Picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->
+<div class="cd-timeline-block">
+    <div class="cd-timeline-img cd-picture">
+    </div> <!-- cd-timeline-img -->
+
+    <div class="cd-timeline-content">
+        <h4>Severe Hand Dermatitis</h4>
+        <p>Type of Agent: Oral</p>
+        <p>Phase/Status: III -- in progress</p>
+        <span class="cd-date">2009</span>
+    </div> <!-- cd-timeline-content -->
+</div> <!-- cd-timeline-block -->
+</section>
+<!-- <script src="../js/vendor/jquery.js"></script>
+<script src="../js/foundation.min.js"></script>
+<script src="../js/timeline.js"></script>
+<script>
+    $(document).foundation();
+</script>
+</body>
+</html> -->
