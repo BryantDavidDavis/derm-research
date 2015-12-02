@@ -88,18 +88,6 @@
     <% END %>
     <script>
     	$(document).foundation();
-	
-		$('.single-item').slick({
-		    infinite: true,
-		    adaptiveHeight: true,
-		    autoplay: true,
-		    dots: true
-		});
-
-		$('a').on('click', function() {
-  			console.log('a link was clicked');
-		});
-	     
 	  	<%FOREACH item IN footer_inserts %>
     		<% INSERT $item %>
       	<% END %>
