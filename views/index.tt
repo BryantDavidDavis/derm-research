@@ -1,8 +1,3 @@
-<div class="single-item text-center">
-  <div><img data-caption="caption here..." src="http://placehold.it/800x500&text=[img1]"></div>
-  <div><img data-caption="caption here..." src="http://placehold.it/800x500&text=[img2]"></div>
-  <div><img data-caption="caption here..." src="http://placehold.it/800x500&text=[img3]"></div>
-</div>
 <section class="about-index-page">
 <div class="row full-width">
   <hr>
