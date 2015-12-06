@@ -1,0 +1,91 @@
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+    	<meta charset="utf-8" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    	<title>Derm Research</title>
+    	<link rel="stylesheet" href="/css/main.css" />
+    	<% header %>
+    </head>
+    <body>
+		<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+  			<button class="menu-icon" type="button" data-toggle></button>
+  			<div class="title-bar-title">Menu</div>
+		</div>
+		<div class="top-bar" id="main-menu">
+			<div class="top-bar-left">
+				<div class="menu-text">
+					<a href="/">Derm Research</a>
+				</div>
+			</div>
+			<div class="top-bar-right">
+				<ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
+				  <li class="has-submenu">
+				    <a href="#">Sponsors</a>
+				    <ul class="vertical submenu menu" data-submenu id="m2">
+				      <li class="has-submenu">
+				        <a href="#">Experience</a>
+				        <ul class="vertical submenu menu" data-submenu id="m3">
+				          <li>
+				          		<a href="/experience/studies">Our Studies</a>
+				          </li>
+					    	<li>
+					    		<a href="/experience/companies">Companies With Whom We Work</a>
+					    	</li>
+				        	<li>
+				        		<a href="/experience/products">Therapeutic Areas and Products</a>
+				        	</li>
+				        </ul>
+				      </li>
+				      <li>
+				      	<a href="#">Capabilities</a>
+					        <ul class="vertical submenu menu" data-submenu id="m4">
+				        <li><a href="capabilities/facilities">Our Facilities</a></li>
+				        <li><a href="capabilities/demographics">Patient Demographics</a></li>
+				        <li><a href="capabilities/staff">Our Staff</a></li>	
+					        </ul>				      	
+				      </li>
+				    </ul>
+				  </li>
+				  <li class="has-submenu">
+				    <a href="#">Patients</a>
+				    <ul class="vertical submenu menu" data-submenu>
+				      <li><a href="#">Item 2A</a></li>
+				      <li><a href="#">Item 2B</a></li>
+				    </ul>
+				  </li>
+				  <li>
+				    <a href="/contact">Contact</a>
+				  </li>
+				</ul>
+			</div>
+		</div>
+		<% content %>
+		<div class="row">
+			<div class="large-12 columns">
+			    <hr>
+			</div>
+			<div class="large-4 columns">
+			    Email: researchstaff1@dermresearch.com
+			</div>
+			<div class="large-4 columns">
+			    Twitter: @dermresearch1 ?
+			</div>
+			 <div class="large-4 columns">
+			    Phone: 210.614.1382
+			</div>
+		</div>
+	    <% FOREACH script IN footer %>
+	    	<script src="<%script%>"></script>
+	    <% END %>
+	    <% FOREACH handlebars IN handlebars_templates %>
+	    	<%INSERT $handlebars %>
+	    <% END %>
+	    <script>
+	    	$(document).foundation();
+		  	<%FOREACH item IN footer_inserts %>
+	    		<% INSERT $item %>
+	      	<% END %>
+	    </script>
+  </body>
+</html>
