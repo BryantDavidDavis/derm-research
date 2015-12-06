@@ -4,11 +4,8 @@
     	<meta charset="utf-8" />
     	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
     	<title>Derm Research</title>
-    	<link rel="stylesheet" href="/css/foundation.min.css" />
     	<link rel="stylesheet" href="/css/main.css" />
-    	<script src="/javascripts/vendor/modernizr.js"></script>
     	<% header %>
-    	<meta class="foundation-mq">
     </head>
     <body>
 		<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
@@ -78,9 +75,6 @@
 			    Phone: 210.614.1382
 			</div>
 		</div>
-		<script src="/javascripts/vendor/jquery.min.js"></script>
-		<script src="/javascripts/foundation.min.js"></script>
-		<script src="/javascripts/vendor/what-input.min.js"></script>
 	    <% FOREACH script IN footer %>
 	    	<script src="<%script%>"></script>
 	    <% END %>
