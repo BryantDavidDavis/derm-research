@@ -7,7 +7,6 @@
 	<title>Derm Research</title>
 	<link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
 	<link href="http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet" type="text/css">
-	<link href="/vendor/motion-ui-starter/css/motion-ui.css"/>
 	<link rel="stylesheet" href="/css/main.css" />
 	<meta class="foundation-mq">
 </head>
@@ -30,8 +29,8 @@
 		  <li>
 		    <a href="#">Sponsors</a>
 		    <ul class="menu">
-		      <li><a href="/experience/studies">Our Studies</a></li>
-		      <li><a href="/experience/companies">Sponsors with whom we Work</a></li>
+		      <li><a href="/experience/studies">Past Studies</a></li>
+		      <li><a href="/experience/companies">Sponsors With Whom we Work</a></li>
 		    </ul>
 		  </li>
 		  <li>
@@ -41,6 +40,9 @@
 		      <li><a href="/experience/staff">Our Staff</a></li>
 		    </ul>
 		  </li>
+		  <li>
+		    <a href="/participate">Participate in a Study</a>
+		  </li>		  
 		  <li><a href="/contact">Contact</a></li>
 		</ul>
 	</div>
