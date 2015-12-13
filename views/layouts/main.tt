@@ -12,43 +12,42 @@
 </head>
 
 <body>
-
-<div class="title-bar" data-responsive-toggle="realEstateMenu" data-hide-for="small">
-	<button class="menu-icon" type="button" data-toggle></button>
-	<div class="title-bar-title"><a href="/">Derm Research</a></div>
-</div>
-
-<div class="top-bar" id="realEstateMenu">
-	<div class="top-bar-left" data-hide-for="small">
-		<ul class="menu" data-responsive-menu="accordion">
-			<li class="menu-text"><a href="/">Derm Research</a></li>
-		</ul>
+	<div class="title-bar" data-responsive-toggle="dermResearchMenu" data-hide-for="small">
+		<button class="menu-icon" type="button" data-toggle></button>
+		<div class="title-bar-title"><a href="/">Derm Research</a></div>
 	</div>
-	<div class="top-bar-right">
-		<ul class="dropdown menu" data-dropdown-menu>
-		  <li>
-		    <a href="#">Sponsors</a>
-		    <ul class="menu">
-		      <li><a href="/experience/studies">Past Studies</a></li>
-		      <li><a href="/experience/companies">Sponsors With Whom we Work</a></li>
-		    </ul>
-		  </li>
-		  <li>
-		    <a href="#">Capabilities</a>
-		    <ul class="menu">
-		      <li><a href="/capabilities/facilities">Our Facilities</a></li>
-		      <li><a href="/experience/staff">Our Staff</a></li>
-		    </ul>
-		  </li>
-		  <li>
-		    <a href="/participate">Participate in a Study</a>
-		  </li>		  
-		  <li><a href="/contact">Contact</a></li>
-		</ul>
+
+	<div class="top-bar" id="dermResearchMenu">
+		<div class="top-bar-left">
+			<ul class="dropdown menu">
+				<li><a href="/">Derm Research</a></li>
+			</ul>
+		</div>
+		<div class="top-bar-right">
+			<ul class="dropdown vertical medium-horizontal menu" data-dropdown-menu>
+				<li>
+					<a href="#">Sponsors</a>
+					<ul class="menu">
+						<li><a href="/experience/studies">Past Studies</a></li>
+						<li><a href="/experience/companies">Sponsors With Whom we Work</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#">Capabilities</a>
+					<ul class="menu">
+						<li><a href="/capabilities/facilities">Our Facilities</a></li>
+						<li><a href="/experience/staff">Our Staff</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/participate">Participate in a Study</a>
+				</li>		  
+				<li><a href="/contact">Contact</a></li>
+			</ul>
+		</div>
 	</div>
-</div>
-<br>
-<% content %>
+	<br>
+	<% content %>
 <!-- <div class="row column">
 <a class="button hollow expanded">Load More</a>
 </div>
@@ -109,7 +108,7 @@
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
 <script>
-      $(document).foundation();
+	$(document).foundation();
 </script>
 </body>
 </html>
