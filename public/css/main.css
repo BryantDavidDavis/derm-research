@@ -1,11 +1,23 @@
+body {
+	background-color: #ECECEA;
+}
+
+.top-bar, .title-bar, .top-bar li, .top-bar-left ul {
+	background-color: #558C89;
+}
+
+.top-bar a {
+	color: #FFFFFF;
+}
+
+.title-bar-title a {
+	color: #FFFFFF;
+}
+
 div.staff-bio {
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
-
-/*.staff-bio img {
-		margin: 10px;
-}*/
 
 .box {
   border-radius: 3px;
