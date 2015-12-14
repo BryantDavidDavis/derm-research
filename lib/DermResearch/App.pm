@@ -16,6 +16,10 @@ get '/participate' => sub {
 	template 'participate';
 };
 
+get '/staff' => sub {
+	template 'staff';
+};
+
 prefix '/experience' => sub {
 	get '/studies' => sub {
 		my @header_inserts = ('/derm-research-studies.json');
