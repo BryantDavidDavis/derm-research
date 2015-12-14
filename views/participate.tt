@@ -24,24 +24,46 @@
 			<hr/>
 			<div class="row">
 				<div class="small-12 columns">
-				<p>If you may be interested in participating in a study, please answer these initial prescreening questions.  This prescreeing is designed to determine whether or not there is a significant possibility you will qualify.  If, based on your reponses to these questions, it appears a follow up is in order you will see a form appear that will help you submit your name and contact, and we will follow up.</p>
+					<p>If you may be interested in participating in a study, please answer and submit the folowing questions.  If you qualify for this study, we will follow up with you at the contact details you provided.</p>
 				</div>
 			</div>
+			<hr/>
 			<div class="box">
 				<div class="box-icon">
 					<span class="fi-checkbox"></span>
 				</div>
-				<div class="info">
-					<h4 class="text-center"></h4>
-					<p>1) Do you Have Recurring Actinic Keratosis?</p>
-					<div class="button-group">
-						<a class="button">Yes</a>
-						<a class="button">No</a>
+				<form>
+					<div class="row">
+						<div class="columns small-6 medium-4 large-3">
+							<label for="months-question" class="middle text-left">
+								How many months have you had Actinic Keratosis?
+								<input id="months-question" type="number" value="3">
+							</label>	
+						</div>
+						<fieldset class="columns small-6 medium-4 large-3">
+    <legend>Do you have any other dermatological conditions?</legend>
+    <input type="radio" name="yes" value="yes" required><label for="yes">Yes</label>
+    <input type="radio" name="no" value="no"><label for="no">No</label>
+						</fieldset>
 					</div>
-				</div>
-			</div>
-			
+					<div class="row">
+						<div class="medium-6 columns">
+							<label>Your Full Name
+								<input type="text" placeholder=".medium-6.columns">
+							</label>
+						</div>
+						<div class="medium-6 columns">
+							<label>Your Email
+								<input type="text" placeholder=".medium-6.columns">
+							</label>
+						</div>
+					</div>
+					<div class="row">
 
+					</div>
+				</form>
+				<a class="expanded button">Submit</a>
+			</div>
 		</div>
 		<div class="tabs-panel" id="panel2">
 			<div class="row">

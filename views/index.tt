@@ -77,34 +77,30 @@
 <div class="row small-up-1 medium-up-2 large-up-4">
   <div class="column">
     <div class="callout">
-      <p>Steven A. Davis, M.D.</p>
-      <p><img src="http://placehold.it/400x370" alt="image of a planet called Pegasi B"></p>
+      <p><img src="/images/dr_davis_photo_cropped.jpg" alt="image of a planet called Pegasi B"></p>
+      <h6>Steven A. Davis, M.D.</h6>
       <p class="lead">Director and Principal Investigator</p>
-      <p class="subheader">something brief goes here</p>
     </div>
   </div>
   <div class="column">
     <div class="callout">
-      <p>Gloria J. Johnson, PA-C MPAS</p>
-      <p><img src="http://placehold.it/400x370" alt="image of a planet called Pegasi B"></p>
+      <p><img src="/images/gjjohnson.jpg" alt="image of a planet called Pegasi B"></p>
+      <h6>Gloria J. Johnson, PA-C MPAS</h6>
       <p class="lead">Sub-Investigator</p>
-      <p class="subheader">something brief goes here</p>
     </div>
   </div>
   <div class="column">
     <div class="callout">
-      <p>Janice K. Orem, CMA</p>
-      <p><img src="http://placehold.it/400x370" alt="image of a planet called Pegasi B"></p>
+      <p><img src="/images/janice.jpg" alt="image of a planet called Pegasi B"></p>
+      <h6>Janice K. Orem, CMA</h6>
       <p class="lead">Research Coordinator</p>
-      <p class="subheader">something brief goes here</p>
     </div>
   </div>
   <div class="column">
     <div class="callout">
-      <p>Judy Lochte</p>
-      <p><img src="http://placehold.it/400x370" alt="image of a planet called Pegasi B"></p>
+      <p><img src="/images/judy.jpg" alt="image of a planet called Pegasi B"></p>
+      <h6>Judy Lochte</h6>
       <p class="lead">Research Coordinator</p>
-      <p class="subheader">something brief goes here</p>
     </div>
   </div>
 </div>
