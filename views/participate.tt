@@ -21,35 +21,26 @@
 					<p><img src="http://placehold.it/400x200&text=otherIMage" alt="something"></p>
 				</div>
 			</div>
-				<div class="row">
-					<div class="medium-6 columns">
-						<div class="box">
-							<div class="box-icon">
-								<span class="fi-checkbox"></span>
-							</div>
-							<div class="info">
-								<h4 class="text-center"></h4>
-								<p>Do you Have Recurring Actinic Keratosis?</p>
-								<div class="button-group">
-									<a class="button">Yes</a>
-									<a class="button">No</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="medium-6 columns">
-						<div class="box">
-							<div class="box-icon">
-								<span class="fi-checkbox"></span>
-							</div>
-							<div class="info">
-								<h4 class="text-center">Title</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque, tenetur quam aspernatur corporis at explicabo nulla dolore necessitatibus doloremque exercitationem sequi dolorem architecto perferendis quas aperiam debitis dolor soluta!</p>
-								<a href="#" class="button">Link</a>
-							</div>
-						</div>
+			<hr/>
+			<div class="row">
+				<div class="small-12 columns">
+				<p>If you may be interested in participating in a study, please answer these initial prescreening questions.  This prescreeing is designed to determine whether or not there is a significant possibility you will qualify.  If, based on your reponses to these questions, it appears a follow up is in order you will see a form appear that will help you submit your name and contact, and we will follow up.</p>
+				</div>
+			</div>
+			<div class="box">
+				<div class="box-icon">
+					<span class="fi-checkbox"></span>
+				</div>
+				<div class="info">
+					<h4 class="text-center"></h4>
+					<p>1) Do you Have Recurring Actinic Keratosis?</p>
+					<div class="button-group">
+						<a class="button">Yes</a>
+						<a class="button">No</a>
 					</div>
 				</div>
+			</div>
+			
 
 		</div>
 		<div class="tabs-panel" id="panel2">

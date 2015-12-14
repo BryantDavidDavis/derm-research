@@ -109,6 +109,7 @@
 <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
 <script>
 	$(document).foundation();
+	// MotionUI.animateIn('#fade-test', 'fade-in');
 </script>
 </body>
 </html>
